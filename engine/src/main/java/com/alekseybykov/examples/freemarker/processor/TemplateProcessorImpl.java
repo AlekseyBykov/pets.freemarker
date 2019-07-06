@@ -9,6 +9,11 @@ import java.io.IOException;
 import java.io.StringWriter;
 import java.util.Map;
 
+/**
+ * @author  aleksey.n.bykov@gmail.com
+ * @version 1.0
+ * @since   2019-05-30
+ */
 @Component
 public class TemplateProcessorImpl implements TemplateProcessor {
 
