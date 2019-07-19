@@ -1,4 +1,4 @@
-package com.alekseybykov.examples.freemarker.processor;
+package alekseybykov.portfolio.freemarker.processor;
 
 import freemarker.template.TemplateException;
 import org.springframework.beans.factory.annotation.Autowired;

@@ -1,4 +1,4 @@
-package com.alekseybykov.examples.freemarker.processor;
+package alekseybykov.portfolio.freemarker.processor;
 
 import freemarker.template.TemplateException;
 

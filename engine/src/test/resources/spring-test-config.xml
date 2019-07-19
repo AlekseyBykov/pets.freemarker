@@ -8,6 +8,6 @@
 	http://www.springframework.org/schema/context/spring-context-4.3.xsd
 	">
 
-    <context:component-scan base-package="com.alekseybykov.examples" />
+    <context:component-scan base-package="alekseybykov.portfolio" />
 
 </beans>
