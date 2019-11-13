@@ -1,6 +1,3 @@
-//
-// Feel free to use these solutions in your work.
-//
 package alekseybykov.portfolio.freemarker.processor;
 
 import freemarker.template.TemplateException;
@@ -16,11 +13,6 @@ import java.util.Map;
 import static org.testng.Assert.assertEquals;
 import static org.testng.Assert.assertNotEquals;
 
-/**
- * @author  aleksey.n.bykov@gmail.com
- * @version 1.0
- * @since   2019-05-30
- */
 @Test
 @ContextConfiguration(locations = { "classpath:spring-test-config.xml" })
 public class TemplateProcessorTest extends AbstractTestNGSpringContextTests {
