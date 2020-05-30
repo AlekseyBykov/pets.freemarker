@@ -13,6 +13,10 @@ import java.util.Map;
 import static org.testng.Assert.assertEquals;
 import static org.testng.Assert.assertNotEquals;
 
+/**
+ * @author Aleksey Bykov
+ * @since 16.06.2019
+ */
 @Test
 @ContextConfiguration(locations = { "classpath:spring-test-config.xml" })
 public class TemplateProcessorTest extends AbstractTestNGSpringContextTests {

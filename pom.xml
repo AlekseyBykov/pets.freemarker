@@ -29,6 +29,13 @@
     <description>Various examples of templates rendering.</description>
     <url>https://alekseybykov.github.io</url>
 
+    <developers>
+        <developer>
+            <name>Aleksey Bykov</name>
+            <email>aleksey.n.bykov@gmail.com</email>
+        </developer>
+    </developers>
+
     <dependencyManagement>
         <dependencies>
             <dependency>
