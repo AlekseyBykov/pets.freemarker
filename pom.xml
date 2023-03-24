@@ -21,7 +21,7 @@
         <freemarker.version>2.3.23</freemarker.version>
         <testng.version>6.8</testng.version>
         <surefire.version>2.14.1</surefire.version>
-        <spring.version>5.3.20</spring.version>
+        <spring.version>5.3.26</spring.version>
         <testng.verbose>0</testng.verbose>
     </properties>
 
