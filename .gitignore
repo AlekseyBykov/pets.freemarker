@@ -1,4 +1,19 @@
-.idea/*
-engine/*.iml
-target/
-engine/target/
+# Maven output
+/target/
+!.mvn/wrapper/maven-wrapper.jar
+
+# Logs
+*.log
+
+# IntelliJ IDEA
+/.idea/
+/*.iml
+/out/
+
+# OS generated files
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.swp
